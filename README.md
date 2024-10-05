@@ -1,9 +1,3 @@
-LoadBalancer/
-├── load_balancer.py    # Contains Load Balancer logic
-├── main.py             # Implements socket server for handling connections
-├── README.md           # Project documentation
-
-
 git clone <repository-url>
 cd LoadBalancer
 
