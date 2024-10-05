@@ -1,5 +1,4 @@
-git clone <repository-url>
-cd LoadBalancer
+After cloning the repo
 
 Step 1: Install FastAPI and Uvicorn
 Make sure you have FastAPI and Uvicorn installed. You can install these packages using pip. Open your terminal and run the following command:
